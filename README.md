@@ -1,4 +1,4 @@
-# iot-react-native-e-ESP32
+# Protótipo iot-react-native-e-ESP32
 
 ### Principais tecnologias utilizadas: React Native com Expo, C++ e Firebase.
 
