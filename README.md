@@ -6,6 +6,8 @@ Projeto de IOT com Aplicativo criado em React Native para controlar, via Banco d
 
 *Estou escrevendo a documentação, contendo detalhes e o passo a passo para fazer um projeto como este, desde a parte eletrônica, até a configuração do Firebase.
 
-A interface de usuário do App atualmente está assim:
+Atualmente, a interface de usuário do App está assim:
 
 ![Interface de usuário do Aplicativo](https://github.com/gabrielcarfepro/IoT-ReactNative-e-ESP32/blob/master/InterfaceDoApp.png)
+
+
